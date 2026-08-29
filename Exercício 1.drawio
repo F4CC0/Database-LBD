@@ -526,6 +526,171 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="oZvcvnSLEXWBasGsq80H-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="190" width="110" x="34" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oZvcvnSLEXWBasGsq80H-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TUTOR" vertex="1">
+          <mxGeometry height="22.5" width="50" x="44" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="oZvcvnSLEXWBasGsq80H-4" edge="1" parent="1" source="oZvcvnSLEXWBasGsq80H-1" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="oZvcvnSLEXWBasGsq80H-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="94" y="210" as="sourcePoint" />
+            <mxPoint x="144" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oZvcvnSLEXWBasGsq80H-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="cpf&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PK&lt;div&gt;nome&lt;/div&gt;&lt;div&gt;end_rua&lt;/div&gt;&lt;div&gt;end_num&lt;/div&gt;&lt;div&gt;end_bairro&lt;/div&gt;&lt;div&gt;end_cidade&lt;/div&gt;&lt;div&gt;end_uf&lt;/div&gt;" vertex="1">
+          <mxGeometry height="102.5" width="90" x="34" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="190" width="210" x="174" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="TELEFONE_TUTOR" vertex="1">
+          <mxGeometry height="22.5" width="120" x="179" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-6" edge="1" parent="1" source="dlxcdtMt_APpRvGn-NQE-2" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="dlxcdtMt_APpRvGn-NQE-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="174" y="137" as="sourcePoint" />
+            <mxPoint x="384" y="137" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="cpf_tutor&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PK, FK -&amp;gt; TUTOR(cpf)&lt;div&gt;telefone&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PK&lt;/div&gt;" vertex="1">
+          <mxGeometry height="22.5" width="210" x="174" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="190" width="210" x="414" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-8" edge="1" parent="1" source="dlxcdtMt_APpRvGn-NQE-7" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="dlxcdtMt_APpRvGn-NQE-7" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="464" y="150" as="sourcePoint" />
+            <mxPoint x="674" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ANIMAL" vertex="1">
+          <mxGeometry height="15" width="50" x="424" y="103.75" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="cpf_tutor&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PK, FK -&amp;gt; TUTOR(cpf)&lt;div&gt;nome&lt;/div&gt;&lt;div&gt;especie&lt;/div&gt;&lt;div&gt;raca&lt;/div&gt;&lt;div&gt;data_nascimento&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="210" x="414" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="190" width="140" x="654" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-13" edge="1" parent="1" source="dlxcdtMt_APpRvGn-NQE-12" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="dlxcdtMt_APpRvGn-NQE-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="724" y="150" as="sourcePoint" />
+            <mxPoint x="864" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ALERGIA_ANIMAL" vertex="1">
+          <mxGeometry height="15" width="110" x="664" y="103.75" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="cpf_tutor&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;PK&lt;div&gt;nome_animal&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;PK&lt;/div&gt;&lt;div&gt;alergia&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;PK&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="140" x="654" y="145" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="190" width="110" x="34" y="298" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-17" edge="1" parent="1" source="dlxcdtMt_APpRvGn-NQE-16" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="dlxcdtMt_APpRvGn-NQE-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="104" y="368" as="sourcePoint" />
+            <mxPoint x="244" y="368" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="FUNCIONARIO" vertex="1">
+          <mxGeometry height="15" width="90" x="44" y="321.75" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="cpf&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;PK&lt;div&gt;nome&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;salario&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="140" x="34" y="358" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="190" width="110" x="174" y="298" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-22" edge="1" parent="1" source="dlxcdtMt_APpRvGn-NQE-21" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="dlxcdtMt_APpRvGn-NQE-21" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="244" y="368" as="sourcePoint" />
+            <mxPoint x="384" y="368" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CONSULTORIO" vertex="1">
+          <mxGeometry height="15" width="90" x="184" y="321.75" as="geometry" />
+        </mxCell>
+        <mxCell id="dlxcdtMt_APpRvGn-NQE-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="numero&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PK&lt;div&gt;ala&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="31" width="100" x="174" y="358" as="geometry" />
+        </mxCell>
+        <mxCell id="CrUENa6uzlZpeR94-1Ef-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="190" width="345" x="309" y="298" as="geometry" />
+        </mxCell>
+        <mxCell id="CrUENa6uzlZpeR94-1Ef-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VETERINARIO" vertex="1">
+          <mxGeometry height="22.5" width="76" x="320" y="318" as="geometry" />
+        </mxCell>
+        <mxCell id="CrUENa6uzlZpeR94-1Ef-3" edge="1" parent="1" source="CrUENa6uzlZpeR94-1Ef-1" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="CrUENa6uzlZpeR94-1Ef-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="309" y="355" as="sourcePoint" />
+            <mxPoint x="519" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CrUENa6uzlZpeR94-1Ef-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="cpf_funcionario&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PK, FK -&amp;gt; FUNCIONARIO(cpf)&lt;div&gt;crmv&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;U&lt;/span&gt;Q&lt;/div&gt;&lt;div&gt;especialidade&lt;/div&gt;&lt;div&gt;cpf_mentor&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;FK -&amp;gt; VETERINARIO(cpf_funcionario)&lt;/div&gt;&lt;div&gt;numero_consultorio&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;FK -&amp;gt; CONSULTORIO(numero), UQ&lt;/div&gt;" vertex="1">
+          <mxGeometry height="67" width="355" x="309" y="358" as="geometry" />
+        </mxCell>
+        <mxCell id="CrUENa6uzlZpeR94-1Ef-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="190" width="300" x="690" y="298" as="geometry" />
+        </mxCell>
+        <mxCell id="CrUENa6uzlZpeR94-1Ef-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ATENDENTE" vertex="1">
+          <mxGeometry height="22.5" width="73" x="701" y="318" as="geometry" />
+        </mxCell>
+        <mxCell id="CrUENa6uzlZpeR94-1Ef-7" edge="1" parent="1" source="CrUENa6uzlZpeR94-1Ef-5" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="CrUENa6uzlZpeR94-1Ef-5" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="690" y="355" as="sourcePoint" />
+            <mxPoint x="900" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CrUENa6uzlZpeR94-1Ef-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="cpf_funcionario&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PK, FK -&amp;gt; FUNCIONARIO(cpf)&lt;div&gt;matricula_interna&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;UQ&lt;/div&gt;&lt;div&gt;turno&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="300" x="690" y="358" as="geometry" />
+        </mxCell>
+        <mxCell id="CrUENa6uzlZpeR94-1Ef-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="190" width="345" x="34" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="CrUENa6uzlZpeR94-1Ef-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CONSULTA" vertex="1">
+          <mxGeometry height="22.5" width="65" x="44" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="CrUENa6uzlZpeR94-1Ef-11" edge="1" parent="1" source="CrUENa6uzlZpeR94-1Ef-9" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="CrUENa6uzlZpeR94-1Ef-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="34" y="567" as="sourcePoint" />
+            <mxPoint x="244" y="567" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CrUENa6uzlZpeR94-1Ef-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="cpf_tutor&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;PK&lt;div&gt;nome_animal&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;P&lt;/span&gt;K&lt;/div&gt;&lt;div&gt;data_consulta&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PK&lt;/div&gt;&lt;div&gt;hora_consulta&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PK&lt;/div&gt;&lt;div&gt;cpf_veterinario&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;FK -&amp;gt; VETERINARIO(cpf_funcionario)&lt;/div&gt;&lt;div&gt;peso_aferido&lt;/div&gt;&lt;div&gt;diagnostico&lt;/div&gt;" vertex="1">
+          <mxGeometry height="102.5" width="345" x="34" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="5pai3HN_bkVi7M7HjL4a-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="190" width="160" x="410" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="5pai3HN_bkVi7M7HjL4a-2" edge="1" parent="1" source="5pai3HN_bkVi7M7HjL4a-1" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="5pai3HN_bkVi7M7HjL4a-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="480" y="580" as="sourcePoint" />
+            <mxPoint x="620" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5pai3HN_bkVi7M7HjL4a-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="MEDICAMENTO" vertex="1">
+          <mxGeometry height="15" width="90" x="424" y="533.75" as="geometry" />
+        </mxCell>
+        <mxCell id="5pai3HN_bkVi7M7HjL4a-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="nome_comercial&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;PK&lt;div&gt;principio_ativo&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;preco&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="160" x="410" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="UrL9FBKCwZyhrpyjeeeI-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="190" width="410" x="600" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="UrL9FBKCwZyhrpyjeeeI-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PRESCRICAO" vertex="1">
+          <mxGeometry height="22.5" width="76" x="611" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="UrL9FBKCwZyhrpyjeeeI-6" edge="1" parent="1" source="UrL9FBKCwZyhrpyjeeeI-4" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="UrL9FBKCwZyhrpyjeeeI-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="600" y="567" as="sourcePoint" />
+            <mxPoint x="810" y="567" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UrL9FBKCwZyhrpyjeeeI-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="cpf_tutor&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;PK&lt;div&gt;nome_animal&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;P&lt;/span&gt;K&lt;/div&gt;&lt;div&gt;data_consulta&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;PK&lt;/div&gt;&lt;div&gt;hora_consulta&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;PK&lt;/div&gt;&lt;div&gt;nome_medicamento&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PK, FK&amp;nbsp;-&amp;gt; MEDICAMENTO(nome_comercial)&lt;/div&gt;&lt;div&gt;dosagem&lt;/div&gt;&lt;div&gt;duracao_tratamento_dias&lt;/div&gt;" vertex="1">
+          <mxGeometry height="102.5" width="410" x="600" y="570" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
