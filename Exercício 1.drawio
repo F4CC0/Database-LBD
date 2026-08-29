@@ -522,7 +522,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="yGRJnhWRQ403swqKJrP0" name="Mapeamento">
-    <mxGraphModel dx="836" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1212" dy="1184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -690,6 +690,39 @@
         </mxCell>
         <mxCell id="UrL9FBKCwZyhrpyjeeeI-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="cpf_tutor&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;PK&lt;div&gt;nome_animal&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;P&lt;/span&gt;K&lt;/div&gt;&lt;div&gt;data_consulta&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;PK&lt;/div&gt;&lt;div&gt;hora_consulta&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;PK&lt;/div&gt;&lt;div&gt;nome_medicamento&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;PK, FK&amp;nbsp;-&amp;gt; MEDICAMENTO(nome_comercial)&lt;/div&gt;&lt;div&gt;dosagem&lt;/div&gt;&lt;div&gt;duracao_tratamento_dias&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;pre dir=&quot;ltr&quot;&gt;&lt;code&gt;&lt;font face=&quot;Helvetica&quot;&gt;FK (cpf_tutor, nome_animal, data_consulta, hora_consulta)&lt;br&gt;   → CONSULTA(cpf_tutor, nome_animal, data_consulta, hora_consulta)&lt;br&gt;&lt;br&gt;FK (nome_medicamento) → MEDICAMENTO(nome_comercial)&lt;/font&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="200" width="410" x="600" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="--R_3u8FwhaRW8mcvBFT-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R1" vertex="1">
+          <mxGeometry height="22.5" width="29" x="115" y="81.25" as="geometry" />
+        </mxCell>
+        <mxCell id="--R_3u8FwhaRW8mcvBFT-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R6" vertex="1">
+          <mxGeometry height="22.5" width="29" x="355" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="--R_3u8FwhaRW8mcvBFT-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R2" vertex="1">
+          <mxGeometry height="22.5" width="29" x="595" y="81.25" as="geometry" />
+        </mxCell>
+        <mxCell id="--R_3u8FwhaRW8mcvBFT-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R6" vertex="1">
+          <mxGeometry height="22.5" width="29" x="921" y="81.25" as="geometry" />
+        </mxCell>
+        <mxCell id="--R_3u8FwhaRW8mcvBFT-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R1" vertex="1">
+          <mxGeometry height="22.5" width="29" x="115" y="298" as="geometry" />
+        </mxCell>
+        <mxCell id="--R_3u8FwhaRW8mcvBFT-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R1" vertex="1">
+          <mxGeometry height="22.5" width="29" x="255" y="299.25" as="geometry" />
+        </mxCell>
+        <mxCell id="--R_3u8FwhaRW8mcvBFT-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R7" vertex="1">
+          <mxGeometry height="22.5" width="29" x="625" y="299.25" as="geometry" />
+        </mxCell>
+        <mxCell id="--R_3u8FwhaRW8mcvBFT-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R7" vertex="1">
+          <mxGeometry height="22.5" width="29" x="961" y="298" as="geometry" />
+        </mxCell>
+        <mxCell id="--R_3u8FwhaRW8mcvBFT-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R2" vertex="1">
+          <mxGeometry height="22.5" width="29" x="350" y="511.25" as="geometry" />
+        </mxCell>
+        <mxCell id="--R_3u8FwhaRW8mcvBFT-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R1" vertex="1">
+          <mxGeometry height="22.5" width="29" x="541" y="511.25" as="geometry" />
+        </mxCell>
+        <mxCell id="--R_3u8FwhaRW8mcvBFT-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="R5" vertex="1">
+          <mxGeometry height="22.5" width="29" x="981" y="511.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
